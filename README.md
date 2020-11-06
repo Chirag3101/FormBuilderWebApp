@@ -12,7 +12,7 @@ Developing a Form Builder for smooth conduction of SRM Online Cycle Test Needs.
 
 ## `FORM MAKER`
 
-![WebArch%20Internal%20Hackathon%201a68641cab8a455a9e01de64337010df/logo.png](WebArch%20Internal%20Hackathon%201a68641cab8a455a9e01de64337010df/logo.png)
+https://github.com/Chirag3101/CTFormBuilder/blob/main/images/logo.png
 
 > AIM
 
