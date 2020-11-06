@@ -31,6 +31,6 @@ An essential resource for conduction of Online Learning in the pandemic.
 
 > Future Additions:
 
-1. A blank workspace to add and delete elements in the form.
+1. Add and delete elements in the form.
 2. A database to store all the responses of the form and export them as **`pdf/xls`** format.
 3. Create a custom URL for each form.
