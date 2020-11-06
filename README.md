@@ -12,7 +12,7 @@ Developing a Form Builder for smooth conduction of SRM Online Cycle Test Needs.
 
 ## `FORM MAKER`
 
-https://github.com/Chirag3101/CTFormBuilder/blob/main/images/logo.png
+![logo](https://github.com/Chirag3101/CTFormBuilder/blob/main/images/logo.png)
 
 > AIM
 
